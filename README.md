@@ -7,6 +7,11 @@ It demonstrates end-to-end data analysis, including data querying, transformatio
 
 ---
 
+## Documentation
+
+- [Project White Paper](Docs/Sales_Analytics_White_Paper.pdf)
+
+---
 ## Tools & Technologies
 
 * SQL Server
@@ -20,6 +25,9 @@ It demonstrates end-to-end data analysis, including data querying, transformatio
 ```
 Sales-Analytics-SQL-PowerBI/
 │
+├── Docs/
+│   └── Sales_Analytics_White_Paper.pdf
+│
 ├── PowerBI_Dashboard/
 │   ├── Sales_Dashboard.pbix
 │   └── Sales_Dashboard_ScreenShot.png
@@ -29,6 +37,8 @@ Sales-Analytics-SQL-PowerBI/
 │
 ├── dataset/
 │   └── sample_superstore.csv
+│
+└── README.md
 ```
 
 ---
